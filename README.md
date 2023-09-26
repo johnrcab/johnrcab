@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- Profile visits:
+- Profile visits:<br>
 ![VISITOR COUNT](https://profile-counter.glitch.me/{johnrcab}/count.svg)
