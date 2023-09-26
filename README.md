@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- Profile visits:
 ![VISITOR COUNT](https://profile-counter.glitch.me/{johnrcab}/count.svg)
